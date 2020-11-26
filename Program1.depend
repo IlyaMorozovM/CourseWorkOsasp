@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606412139 source:c:\study\5sem\osasp\program1\courseworkosasp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
